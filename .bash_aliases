@@ -1,0 +1,6 @@
+alias AliasChanger="nvim ~/.bash_aliases"
+alias SourceAlias="source ~/.bash_aliases"
+alias rebuild="sudo nixos-rebuild switch;sudo nix-collect-garbage --delete-old"
+alias nixConfig="sudo nvim /etc/nixos/"
+alias waybarReload="pkill waybar; hyprctl dispatch exec waybar"
+alias configEdit="nvim ~/.config"
