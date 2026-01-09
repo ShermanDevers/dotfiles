@@ -1,0 +1,15 @@
+{
+    "segments": [
+      "hostname",
+      "username",
+      "ssh",
+      "cwd",
+      "git",
+      "hg",
+      "jobs",
+      "root"
+    ],
+    "mode": "patched",
+    "theme": "/home/sherman/.themes/default.py"
+}
+

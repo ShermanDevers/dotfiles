@@ -7,7 +7,6 @@ environment.systemPackages = with pkgs; [
   ripgrep
   wget
   git
-  ghostty
   gnome-tweaks
   python3
   micromamba
