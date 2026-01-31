@@ -22,6 +22,11 @@ environment.systemPackages = with pkgs; [
   hyprlock
   fastfetch
   kitty
+  curl
+  nodejs_24
+  fzf
+  fd
+  gnumake
   ];
 
 
